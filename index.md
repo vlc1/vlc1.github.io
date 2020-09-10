@@ -4,7 +4,7 @@ title: Homepage
 
 # Teaching
 
-Post teaching material here.
+* [ene-4102c](ene-4102c/index.md)
 
 # Research
 
