@@ -8,7 +8,7 @@ title: ENE-4102C
 
 	* [Prise en main de Julia](td1/part1.html)
 	* [Développements limités](td1/part2.html)
-	* [Matrices et vecteurs](td1/part3.html) ([corrigé](corrigés/part3.html)
+	* [Matrices et vecteurs](td1/part3.html) ([corrigé](td1/corrigés/part3.html))
 
-1. [TD2](td2.html) (17/09/2020)
+1. [TD2](td2.html) (18/09/2020)
 
