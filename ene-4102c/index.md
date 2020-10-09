@@ -10,8 +10,8 @@ title: ENE-4102C
 	* [Développements limités](td1/part2.html) ([correction](td1/correction/part2.html))
 	* [Matrices et vecteurs](td1/part3.html) ([correction](td1/correction/part3.html))
 
-1. TD2 (18/09/2020) : [énoncé](td2/énoncé.html)
-1. TD3 (25/09/2020) : [énoncé](td3/énoncé.html)
-1. TD4 (02/10/2020) : [énoncé](td4/énoncé.html) et [corrigé](td4/corrigé.html)
-1. TD5 (09/10/2020) : [énoncé](td5/énoncé.html)
+1. TD2 (18/09/2020) : [sujet](td2/sujet.html)
+1. TD3 (25/09/2020) : [sujet](td3/sujet.html)
+1. TD4 (02/10/2020) : [sujet](td4/sujet.html) et [correction](td4/correction.html)
+1. TD5 (09/10/2020) : [sujet](td5/sujet.html)
 
