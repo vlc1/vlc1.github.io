@@ -8,9 +8,9 @@ title: ENE-4102C
 
 1. TD1 (11/09/2020)
 
-	* [Prise en main de Julia](td1/part1.html)
-	* [Développements limités](td1/part2.html) ([correction](td1/correction/part2.html))
-	* [Matrices et vecteurs](td1/part3.html) ([correction](td1/correction/part3.html))
+	* Prise en main de Julia : [sujet](td1/part1.html)
+	* Développements limités : [sujet](td1/part2.html) et [correction](td1/correction/part2.html)
+	* Matrices et vecteurs : [sujet](td1/part3.html) et [correction](td1/correction/part3.html)
 
 1. TD2 (18/09/2020) : [sujet](td2/sujet.html)
 1. TD3 (25/09/2020) : [sujet](td3/sujet.html)
