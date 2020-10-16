@@ -16,4 +16,5 @@ title: ENE-4102C
 1. TD3 (25/09/2020) : [sujet](td3/sujet.html)
 1. TD4 (02/10/2020) : [sujet](td4/sujet.html) et [correction](td4/correction.html)
 1. TD5 (09/10/2020) : [sujet](td5/sujet.html) et [correction](td5/correction.html)
+1. TD6 (16/10/2020) : [sujet](td6/sujet.html)
 
