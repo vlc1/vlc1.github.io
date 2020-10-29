@@ -4,7 +4,10 @@ title: ENE-4102C
 
 # ENE-4102C
 
-Sujet de l'examen blanc à trouver [ici](README.pdf).
+## Examen blanc
+
+* [Sujet](examen/blanc/sujet.pdf)
+* [Correction](examen/blanc/correction.pdf)
 
 ## Travaux dirigés
 
