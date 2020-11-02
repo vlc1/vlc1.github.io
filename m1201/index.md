@@ -17,6 +17,7 @@ title: M1201
 
 		1.  Groupe 1S1 (02/11 de 8H30 à 10H30)
 
+			- [Notebook](2/20201102_1S1.pdf) et applications numériques des exercices [3](2/3.html) et [6](2/6.html)
 			- Lien : <https://us02web.zoom.us/j/89114985972?pwd=Vm9HK2lHU3lvQmVQeVBtMXBBVVREdz09>
 			- *Meeting ID* : `891 1498 5972`
 			- Mot de passe : `7kQQ6c`
