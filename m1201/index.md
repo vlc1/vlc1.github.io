@@ -24,5 +24,5 @@ title: M1201
 		* [Notebook groupe 1S1](2/20201104_1S1.pdf)
 		* [Notebook groupe 1S2](2/20201104_1S2.pdf)
 		* Application numérique de l'exercice [4](2/4.html)
-		* Enregistrements partiels (groupe 1, [audio](https://filesender.renater.fr/download.php?token=de107526-e9b0-4c23-8423-918dcbed44db&files_ids=2838013) et [vidéo](https://filesender.renater.fr/download.php?token=de107526-e9b0-4c23-8423-918dcbed44db&files_ids=2838014)
+		* Enregistrements partiels (groupe 1, [audio](https://filesender.renater.fr/download.php?token=de107526-e9b0-4c23-8423-918dcbed44db&files_ids=2838013) et [vidéo](https://filesender.renater.fr/download.php?token=de107526-e9b0-4c23-8423-918dcbed44db&files_ids=2838014))
 
