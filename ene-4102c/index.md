@@ -11,7 +11,9 @@ title: ENE-4102C
 ## Examen blanc
 
 * [Sujet](examen/blanc/sujet.pdf)
+<!--
 * [Correction](examen/blanc/correction.pdf)
+-->
 
 ## Travaux dirigés
 
