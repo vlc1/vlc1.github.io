@@ -2,6 +2,12 @@
 title: OS08
 ---
 
+# Examen
+
+* [Énoncé](sujet.pdf)
+
+# Documents TP/TD
+
 1. [Notebook différences finies](fd.html)
 1. [Notebook TP 0](tp0/sujet.html)
 1. [Notebook TP 1](tp1/sujet.html)
