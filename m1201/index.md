@@ -31,17 +31,13 @@ title: M1201
 	* [Énoncé](td3.pdf)
 	* Séance 6
 
-		1. Session Zoom du **groupe 1**
+		* *Notebooks*
 
-			* Nov 9, 2020 de 08H45 à 10H15
-			* <https://us02web.zoom.us/j/81348242175?pwd=K0JGMEFOTitxWGJldzJwRjVsWkRTQT09>
-			* *Meeting ID* : `813 4824 2175`
-			* Mot de passe : `rVt5h3`
+			1. [Groupe 1](3/20201109_1S1.pdf)
+			1. [Groupe 2](3/20201109_1S2.pdf)
 
-		1. Session Zoom du **groupe 2**
+		* Enregistrements du [groupe 1](https://filesender.renater.fr/?s=download&token=746dd78e-1ea4-44be-826e-6519b06153e5)
 
-			* Nov 9, 2020 de 10H15 à 11H45
-			* <https://us02web.zoom.us/j/89885318432?pwd=WXJFdndJY3M2bWs5RzB3N3RMaEVZUT09>
-			* *Meeting ID* : `898 8531 8432`
-			* Mot de passe : `8yEU3m`
+			- [Audio](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904718)
+			- [Vidéo](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904719)
 
