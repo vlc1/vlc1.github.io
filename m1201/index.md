@@ -41,3 +41,8 @@ title: M1201
 			- [Audio](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904718)
 			- [Vidéo](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904719)
 
+	* Séance 7
+
+		* [*Notebook*](3/20201116.pdf)
+		* [Enregistrement](https://filesender.renater.fr/?s=download&token=862c7e06-e310-4c96-92c8-a68066f20e48)
+
