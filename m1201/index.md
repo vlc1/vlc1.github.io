@@ -46,3 +46,11 @@ title: M1201
 		* [*Notebook*](3/20201116.pdf)
 		* [Enregistrement](https://filesender.renater.fr/?s=download&token=862c7e06-e310-4c96-92c8-a68066f20e48)
 
+	* Séance 8
+
+		* [Application numérique](3/20201123.html)
+		* *Notebooks*
+
+			1. [Groupe 1](3/20201123_1S1.pdf)
+			1. [Groupe 2](3/20201123_1S2.pdf)
+
