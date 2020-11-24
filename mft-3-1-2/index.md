@@ -17,3 +17,8 @@ title: Écoulements multiconstituant, changement de phase
 * [Notes de cours](20201117/notes.pdf)
 * Notebooks disponible dans ce [dépôt Git](https://github.com/vlc1/mft-3-1-2.jl) (dossier `sample`)
 
+# Séance 3 (24/11/2020)
+
+* [Notes de cours](20201124/notes.pdf)
+* Mécanismes [irréversible](20201124/irreversible.pdf) et [réversible](20201124/reversible.pdf)
+
