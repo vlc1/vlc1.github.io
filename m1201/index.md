@@ -54,3 +54,8 @@ title: M1201
 			1. [Groupe 1](3/20201123_1S1.pdf)
 			1. [Groupe 2](3/20201123_1S2.pdf)
 
+	* Séance 9 (révisions et fin de la feuille TD 3)
+
+		* [*Notebook*](3/20201130.pdf)
+		* [Enregistrements](https://filesender.renater.fr/?s=download&token=66cad127-8a14-40b8-ab9d-7ffaa738cde9)
+
