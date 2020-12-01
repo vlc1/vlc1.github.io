@@ -22,3 +22,12 @@ title: Écoulements multiconstituant, changement de phase
 * [Notes de cours](20201124/notes.pdf)
 * Mécanismes [irréversible](20201124/irreversible.pdf) et [réversible](20201124/reversible.pdf)
 
+# Séance 4 (1/12/2020)
+
+* [Notes de cours](20201201/notes.pdf)
+* Base de données
+
+	- [NASA](http://combustion.berkeley.edu/gri-mech/data/nasa_plnm.html)
+	- [NIST-JANAF](https://janaf.nist.gov/)
+	- [NIST Chemistry Webbook](https://webbook.nist.gov/)
+
