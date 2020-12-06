@@ -41,7 +41,25 @@ title: M1201
 			- [Audio](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904718)
 			- [Vidéo](https://filesender.renater.fr/download.php?token=746dd78e-1ea4-44be-826e-6519b06153e5&files_ids=2904719)
 
-1. TD3
+	* Séance 7
+
+		* [*Notebook*](3/20201116.pdf)
+		* [Enregistrement](https://filesender.renater.fr/?s=download&token=862c7e06-e310-4c96-92c8-a68066f20e48)
+
+	* Séance 8
+
+		* [Application numérique](3/20201123.html)
+		* *Notebooks*
+
+			1. [Groupe 1](3/20201123_1S1.pdf)
+			1. [Groupe 2](3/20201123_1S2.pdf)
+
+	* Séance 9 (révisions et fin de la feuille TD 3)
+
+		* [*Notebook*](3/20201130.pdf)
+		* [Enregistrements](https://filesender.renater.fr/?s=download&token=66cad127-8a14-40b8-ab9d-7ffaa738cde9)
+
+1. TD4
 
 	* [Énoncé](td4.pdf)
 
