@@ -62,4 +62,9 @@ title: M1201
 1. TD4
 
 	* [Énoncé](td4.pdf)
+	* Séance 10
+
+		* *Notebooks* [groupe 1](4/20201207_1S1.pdf) et [groupe 2](4/20201207_1S2.pdf)
+		* [Applications numériques](4/20201207.html)
+		* [Enregistrement](https://filesender.renater.fr/?s=download&token=33881d83-abb0-49aa-92bb-533d72e99e01)
 
