@@ -31,3 +31,9 @@ title: Écoulements multiconstituant, changement de phase
 	- [NIST-JANAF](https://janaf.nist.gov/)
 	- [NIST Chemistry Webbook](https://webbook.nist.gov/)
 
+# Séance 5 (8/12/2020)
+
+* [Notes de cours](20201208/notes.pdf)
+* [Notebook](20201208/notebook.jl) et [rendu statique](20201208/notebook.html)
+* [Enregistrement](https://filesender.renater.fr/?s=download&token=b02e8766-26bb-422b-a5fe-bfaabdc5fcc6)
+
