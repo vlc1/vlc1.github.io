@@ -68,3 +68,9 @@ title: M1201
 		* [Applications numériques](4/20201207.html)
 		* [Enregistrement](https://filesender.renater.fr/?s=download&token=33881d83-abb0-49aa-92bb-533d72e99e01)
 
+	* Séance 11
+
+		* [*Notebook*](4/20201210.pdf)
+		* [Application numérique](4/20201210.html)
+		* [Enregistrement](https://filesender.renater.fr/?s=download&token=7f85d642-f227-4f2f-8e6a-5cd331b9be0a)
+
