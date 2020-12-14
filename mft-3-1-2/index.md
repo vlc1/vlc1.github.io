@@ -37,3 +37,7 @@ title: Écoulements multiconstituant, changement de phase
 * [Notebook](20201208/notebook.jl) et [rendu statique](20201208/notebook.html)
 * [Enregistrement](https://filesender.renater.fr/?s=download&token=b02e8766-26bb-422b-a5fe-bfaabdc5fcc6)
 
+# TP 1 (15/12/2020)
+
+* [Sujet](tp/20201214/sujet.html)
+
