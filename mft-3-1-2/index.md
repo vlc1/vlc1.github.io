@@ -40,4 +40,5 @@ title: Écoulements multiconstituant, changement de phase
 # TP 1 (15/12/2020)
 
 * [Sujet](tp/20201214/sujet.html)
+* [Démonstration](tp/20201214/demo.html) (*notebook* au format `jl` [ici](tp/20201214/demo.jl)
 
