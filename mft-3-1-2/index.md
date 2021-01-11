@@ -45,3 +45,7 @@ title: Écoulements multiconstituant, changement de phase
 * L'[adaptation](tp/20201214/adaptation.html) de l'exemple précédent (et son *notebook* au format `jl` [ici](tp/20201214/adaptation.jl))
 * [Enregistrements](https://filesender.renater.fr/?s=download&token=ffb1463c-bef8-4db0-9d97-1eba2ea4cb68)
 
+# TP 2 (11/01/2021)
+
+* [Sujet](tp/20210111/sujet.html)
+
