@@ -50,4 +50,5 @@ title: Écoulements multiconstituant, changement de phase
 * [Sujet](tp/20210111/sujet.html)
 * [Notes](tp/20210111/notes.pdf)
 * [Exemple](tp/20210111/markdown.html) avec Markdown et équations LaTeX
+* [Enregistrements](https://filesender.renater.fr/?s=download&token=0692a87a-3078-4983-b9de-3bdaa66779ac)
 
