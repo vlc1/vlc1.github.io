@@ -1,7 +1,15 @@
 ---
-title: OS08
+title: OS08 -- Démarche Scientifique
 ---
 
+Voici les informations relatives à la prochaine séance en distanciel :
+
+* **Horaire** : 28/01/2021 de 14H00 à 18H15 ;
+* **Lien zoom** : <https://us02web.zoom.us/j/82294806124?pwd=Q1ZiS2tDSktyM3NPWkR3Mmh2U3l0Zz09> ;
+* **Meeting ID** : `822 9480 6124` ;
+* **Mot de passe** : `hvRjQ7`.
+
+<!--
 # Examen
 
 * [Énoncé](sujet.pdf)
@@ -17,4 +25,5 @@ title: OS08
 	- [Correction](20201105.pdf)
 	- [Application numérique](20201105_AN.html)
 	- Enregistrements [audio](https://filesender.renater.fr/download.php?token=c5a70e3f-91bd-47ef-9986-3d09b95b75b3&files_ids=2857049) et [vidéo](https://filesender.renater.fr/download.php?token=c5a70e3f-91bd-47ef-9986-3d09b95b75b3&files_ids=2857050)
+-->
 
