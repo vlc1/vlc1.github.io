@@ -2,18 +2,25 @@
 title: OS08 -- Démarche Scientifique
 ---
 
+<!--
 Voici les informations relatives à la prochaine séance en distanciel :
 
 * **Horaire** : 04/02/2021 de 14H00 à 18H15 ;
 * **Lien zoom** : <https://us02web.zoom.us/j/87894977123?pwd=a1RQSzdvaVE3Uzl1Y29lc3dicWNwUT09> ;
 * **Meeting ID** : `878 9497 7123` ;
 * **Mot de passe** : `x1LBBS`.
+-->
 
-# Session 1
+# Séance 1
 
 * [Notes de cours](20210128/notes.pdf)
 * [Notebook Pluto](20210128/notebook.html)
 * [Enregistrement](https://filesender.renater.fr/?s=download&token=d95aedf4-35d6-4d1e-a5f9-a5854f7a35c5)
+
+# Séance 2
+
+* [Notes de cours](20210204/notes.pdf)
+* [Notebook Pluto](20210204/notebook.html)
 
 <!--
 # Examen
