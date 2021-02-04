@@ -15,12 +15,13 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 * [Notes de cours](20210128/notes.pdf)
 * [Notebook Pluto](20210128/notebook.html)
-* [Enregistrement](https://filesender.renater.fr/?s=download&token=d95aedf4-35d6-4d1e-a5f9-a5854f7a35c5)
+* [Enregistrement](https://youtu.be/R5VtuDag8ko)
 
 # Séance 2
 
 * [Notes de cours](20210204/notes.pdf)
 * [Notebook Pluto](20210204/notebook.html)
+* [Enregistrement](https://youtu.be/K6nscENHCQk)
 
 <!--
 # Examen
