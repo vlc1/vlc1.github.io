@@ -2,14 +2,12 @@
 title: OS08 -- Démarche Scientifique
 ---
 
-<!--
 Voici les informations relatives à la prochaine séance en distanciel :
 
-* **Horaire** : 28/01/2021 de 14H00 à 18H15 ;
-* **Lien zoom** : <https://us02web.zoom.us/j/82294806124?pwd=Q1ZiS2tDSktyM3NPWkR3Mmh2U3l0Zz09> ;
-* **Meeting ID** : `822 9480 6124` ;
-* **Mot de passe** : `hvRjQ7`.
--->
+* **Horaire** : 04/02/2021 de 14H00 à 18H15 ;
+* **Lien zoom** : <https://us02web.zoom.us/j/87894977123?pwd=a1RQSzdvaVE3Uzl1Y29lc3dicWNwUT09> ;
+* **Meeting ID** : `878 9497 7123` ;
+* **Mot de passe** : `x1LBBS`.
 
 # Session 1
 
