@@ -15,5 +15,5 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 ## Séance 1 (08/02/2021)
 
-* [Diaporama](cm/20210208.pdf) (et sa [version annotée](cm/20210208bis.pdf)
+* [Diaporama](cm/20210208.pdf) (et sa [version annotée](cm/20210208bis.pdf))
 
