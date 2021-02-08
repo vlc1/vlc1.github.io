@@ -9,3 +9,9 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * **Meeting ID** : `861 7969 8117` ;
 * **Mot de passe** : `QtcxY7`.
 
+# CM
+
+## Séance 1 (08/02/2021)
+
+* [Diaporama](cm/20210208.pdf)
+
