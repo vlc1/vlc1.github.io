@@ -31,6 +31,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Résolution numérique](20210211/num.pdf)
 
 * *Notebooks*
+
+	* [notebook1](20210211/notebook1.html)
+	* [notebook2](20210211/notebook2.html)
+
 * Enregistrements
 
 	- [Exercice 1](https://youtu.be/VVQrT7P6mvg)
