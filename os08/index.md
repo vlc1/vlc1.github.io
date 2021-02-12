@@ -2,24 +2,41 @@
 title: OS08 -- Démarche Scientifique
 ---
 
+<!--
 Voici les informations relatives à la prochaine séance en distanciel :
 
 * **Horaire** : 11/02/2021 de 14H00 à 18H15 ;
 * **Lien zoom** : <https://us02web.zoom.us/j/84888440540?pwd=a3FIeEp5ZU9LMFBCanJnZ2JiMCtRQT09> ;
 * **Meeting ID** : `848 8844 0540` ;
 * **Mot de passe** : `xUTL3X`.
+-->
 
-# Séance 1
+# Séance 1 (28/01/2021)
 
 * [Notes de cours](20210128/notes.pdf)
-* [Notebook Pluto](20210128/notebook.html)
+* [*Notebook* Pluto](20210128/notebook.html)
 * [Enregistrement](https://filesender.renater.fr/?s=download&token=d95aedf4-35d6-4d1e-a5f9-a5854f7a35c5)
 
-# Séance 2
+# Séance 2 (04/02/2021)
 
 * [Notes de cours](20210204/notes.pdf)
-* [Notebook Pluto](20210204/notebook.html)
+* [*Notebook* Pluto](20210204/notebook.html)
 * [Enregistrement](https://youtu.be/K6nscENHCQk)
+
+# Séance 3 (11/02/2021)
+
+* Notes de cours
+
+	- [Mathématiques](20210211/math.pdf)
+	- [Résolution numérique](20210211/num.pdf)
+
+* *Notebooks*
+* Enregistrements
+
+	- [Exercice 1](https://youtu.be/VVQrT7P6mvg)
+	- [Exercice 2](https://youtu.be/IGLNLxdLhfY)
+	- [Exercice 3](https://youtu.be/7sC9U0Qwrik)
+	- [Exercice 4](https://youtu.be/2T8-rONMJcg)
 
 <!--
 # Examen
