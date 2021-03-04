@@ -2,12 +2,14 @@
 title: OS08 -- Démarche Scientifique
 ---
 
+<!--
 Voici les informations relatives à la prochaine séance en distanciel :
 
 * **Horaire** : 04/03/2021 de 15H00 à 19H15 ;
 * **Lien zoom** : <https://us02web.zoom.us/j/85063364580?pwd=WXJZREJ6WlZHVkZpSDh6c0dGazJtQT09> ;
 * **Meeting ID** : `850 6336 4580` ;
 * **Mot de passe** : `32ZTpg`.
+-->
 
 # Séance 1 (28/01/2021)
 
@@ -43,6 +45,9 @@ Voici les informations relatives à la prochaine séance en distanciel :
 # Séance 4 (04/03/2021)
 
 * [Exercices](20210304/exercices.pdf)
+* [Notes de cours](20210304/cauchy.pdf)
+* [*Notebook*](20210304/notebook.html)
+* [Enregistrement](https://youtu.be/M22VdOsDpXI)
 
 <!--
 # Examen
