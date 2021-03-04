@@ -40,6 +40,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Exercice 3](https://youtu.be/7sC9U0Qwrik)
 	- [Exercice 4](https://youtu.be/2T8-rONMJcg)
 
+# Séance 4 (04/03/2021)
+
+* [Exercices](20210304/exercices.pdf)
+
 <!--
 # Examen
 
