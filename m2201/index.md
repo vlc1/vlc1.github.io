@@ -17,3 +17,9 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 * [Diaporama](cm/20210208.pdf) (et sa [version annotée](cm/20210208bis.pdf))
 
+# TD
+
+## Séance 1 (05/03/2021)
+
+* [Exercices](td/1/exercices.pdf)
+
