@@ -22,4 +22,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 1 (05/03/2021)
 
 * [Exercices](td/1/exercices.pdf)
+* Corrections
+
+	- [Groupe 1](td/1/1.pdf)
 
