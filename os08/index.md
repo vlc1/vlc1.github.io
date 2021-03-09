@@ -54,6 +54,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * *Notebooks*
 
 	- [Démonstration](20210309/demo.html)
+	- [Exercice 2](20210309/ex2.html)
 
 <!--
 # Examen
