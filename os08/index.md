@@ -49,6 +49,12 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [*Notebook*](20210304/notebook.html)
 * [Enregistrement](https://youtu.be/M22VdOsDpXI)
 
+# Séance 5 (09/03/2021)
+
+* *Notebooks*
+
+	- [Démonstration](demo.html)
+
 <!--
 # Examen
 
