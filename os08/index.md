@@ -51,10 +51,17 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 # Séance 5 (09/03/2021)
 
+* [Notes de cours](20210309/notes.pdf)
 * *Notebooks*
 
 	- [Démonstration](20210309/demo.html)
 	- [Exercice 2](20210309/ex2.html)
+
+* Enregistrements (Pluto.jl)
+
+	- [Installation](https://youtu.be/YRXcvLOeBGI)
+	- [Environnement](https://youtu.be/vMrrSkp6M04)
+	- [Ouverture notebook](https://youtu.be/PBl3EtRwSZI)
 
 <!--
 # Examen
