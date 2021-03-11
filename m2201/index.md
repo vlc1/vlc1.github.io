@@ -27,3 +27,14 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Groupe 1](td/1/1.pdf)
 	- [Groupe 2](td/1/2.pdf)
 
+## Séance 2 (11/03/2021)
+
+* [Feuille de calcul](td/2/ex2.html)
+* Corrections
+
+	- [Groupe 1](td/2/1.pdf)
+
+* Enregistrements
+
+	- [Groupe 1](https://filesender.renater.fr/?s=download&token=ebee06a5-670b-4644-b65b-d5b9db0a3970)
+
