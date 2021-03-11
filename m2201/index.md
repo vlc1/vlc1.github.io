@@ -33,8 +33,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * Corrections
 
 	- [Groupe 1](td/2/1.pdf)
+	- [Groupe 2](td/2/2.pdf)
 
 * Enregistrements
 
 	- [Groupe 1](https://filesender.renater.fr/?s=download&token=ebee06a5-670b-4644-b65b-d5b9db0a3970)
+	- [ Groupe 2](https://filesender.renater.fr/?s=download&token=fc96f3e0-6d6a-48b6-93dd-dec088d85012)
 
