@@ -4,7 +4,7 @@ title: Homepage
 
 # Teaching
 
-* [m1202](m1201/index.md)
+* [m1201](m1201/index.md)
 * [m2201](m2201/index.md)
 * [m3202](m3202/index.md)
 * [ene-4102c](ene-4102c/index.md)
