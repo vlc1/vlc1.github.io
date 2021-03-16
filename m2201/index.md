@@ -20,11 +20,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 2 (16/03/2021)
 
 * [Projets tutorés](cm/ptut.pdf)
-* [Diaporama](cm/20210316bis.pdf))
-
-<!--
 * [Diaporama](cm/20210316.pdf) (et sa [version annotée](cm/20210316bis.pdf))
--->
 
 # TD
 
