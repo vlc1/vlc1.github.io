@@ -63,6 +63,22 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Environnement](https://youtu.be/vMrrSkp6M04)
 	- [Ouverture notebook](https://youtu.be/PBl3EtRwSZI)
 
+# Séance 6 (18/03/2021)
+
+* [Notes de cours](20210318/notes.pdf)
+* *Notebooks*
+
+	- [Exercice 1](20210318/ex1.html)
+	- [Exercice 2 (modifié)](20210318/ex2mod.html)
+
+<!--
+* Enregistrements (Pluto.jl)
+
+	- [Installation](https://youtu.be/YRXcvLOeBGI)
+	- [Environnement](https://youtu.be/vMrrSkp6M04)
+	- [Ouverture notebook](https://youtu.be/PBl3EtRwSZI)
+-->
+
 <!--
 # Examen
 
