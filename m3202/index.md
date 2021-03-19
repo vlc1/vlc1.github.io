@@ -24,3 +24,17 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Corrections](td/1/corrections.pdf)
 * [Enregistrements](https://filesender.renater.fr/?s=download&token=148d2bd6-6b22-4371-b0f5-e128dd183b39)
 
+## Séance 2 (19/03/2021)
+
+* [Énoncés](td/2/exercices.pdf)
+<!--
+* Feuilles de calcul
+
+	- [Exercice 1](td/1/ex1.html)
+	- [Exercice 2](td/1/ex2.html)
+
+* [Corrections](td/1/corrections.pdf)
+* [Enregistrements](https://filesender.renater.fr/?s=download&token=148d2bd6-6b22-4371-b0f5-e128dd183b39)
+
+-->
+
