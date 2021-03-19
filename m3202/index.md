@@ -27,6 +27,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 2 (19/03/2021)
 
 * [Énoncés](td/2/exercices.pdf)
+
 <!--
 * Feuilles de calcul
 
