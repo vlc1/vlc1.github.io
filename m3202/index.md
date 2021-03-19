@@ -27,6 +27,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 2 (19/03/2021)
 
 * [Énoncés](td/2/exercices.pdf)
+* [Diagramme de Moody/Colebrook](https://upload.wikimedia.org/wikipedia/commons/b/b7/Moody_FR.png) (source : [Wikipedia](https://www.wikipedia.org/))
 
 <!--
 * Feuilles de calcul
