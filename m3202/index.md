@@ -36,3 +36,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Corrections](td/2/corrections.pdf)
 * [Enregistrement](https://filesender.renater.fr/?s=download&token=6b718915-105a-4f73-8775-d711552cfeee)
 
+## Séance 3 (26/03/2021)
+
+* [Énoncés](td/3/exercices.pdf)
+
