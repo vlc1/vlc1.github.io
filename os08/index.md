@@ -71,6 +71,14 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Exercice 1](20210318/ex1.html)
 	- [Exercice 2 (modifié)](20210318/ex2mod.html)
 
+# Séance 7 (25/03/2021)
+
+* [Notes de cours](20210325/notes.pdf)
+* *Notebooks*
+
+	- [Stabilité](20210325/stability.html)
+	- [Schéma de RK2](20210325/rk2.html)
+
 <!--
 * Enregistrements (Pluto.jl)
 
