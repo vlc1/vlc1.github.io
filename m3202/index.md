@@ -39,4 +39,6 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 3 (26/03/2021)
 
 * [Énoncés](td/3/exercices.pdf)
+* [Corrections](td/3/corrections.pdf)
+* [Feuille de calcul](td/3/lance.html) (lance à incendie)
 
