@@ -83,6 +83,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 * [Sujet d'examen blanc](20210401/sujet.pdf)
 * [Correction](20210401/correction.pdf)
+* [Feuille de calcul](20210401/calcul.html)
 
 <!--
 * Enregistrements (Pluto.jl)
