@@ -41,4 +41,5 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Énoncés](td/3/exercices.pdf)
 * [Corrections](td/3/corrections.pdf)
 * [Feuille de calcul](td/3/lance.html) (lance à incendie)
+* [Enregistrement](https://filesender.renater.fr/?s=download&token=d25231be-caf1-4546-8eb8-e8926ccc0209)
 
