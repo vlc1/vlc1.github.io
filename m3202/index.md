@@ -43,3 +43,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Feuille de calcul](td/3/lance.html) (lance à incendie)
 * [Enregistrement](https://filesender.renater.fr/?s=download&token=d25231be-caf1-4546-8eb8-e8926ccc0209)
 
+## Séance 4 (01/04/2021)
+
+* [Corrections](td/4/corrections.pdf)
+
