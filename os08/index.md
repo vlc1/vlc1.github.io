@@ -81,7 +81,8 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 # Séance 8 (01/04/2021)
 
-* [Examen blanc](blanc.pdf)
+* [Sujet d'examen blanc](20210401/sujet.pdf)
+* [Correction](20210401/correction.pdf)
 
 <!--
 * Enregistrements (Pluto.jl)
