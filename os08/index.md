@@ -79,6 +79,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 	- [Stabilité](20210325/stability.html)
 	- [Schéma de RK2](20210325/rk2.html)
 
+# Séance 8 (01/04/2021)
+
+* [Examen blanc](blanc.pdf)
+
 <!--
 * Enregistrements (Pluto.jl)
 
