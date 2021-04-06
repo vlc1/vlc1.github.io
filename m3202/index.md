@@ -48,3 +48,11 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Corrections](td/4/corrections.pdf)
 * [Enregistrements](https://filesender.renater.fr/?s=download&token=84ff2f9f-8d64-4695-9a82-dd99c4a3ab21)
 
+## Séance 5 (06/04/2021)
+
+* [Corrections](td/5/corrections.pdf)
+
+## Séance 6 (30/04/2021)
+
+* [Énoncés](td/6/exercices.pdf)
+
