@@ -24,7 +24,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 ## Séance 3 (09/04/2021)
 
-* [Diaporama](cm/20210409.pdf)
+* [Diaporama](cm/20210409.pdf) (et sa [version annotée](cm/20210409bis.pdf))
 
 # TD
 
