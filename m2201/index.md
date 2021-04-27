@@ -13,6 +13,8 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 # CM
 
+Les versions annotées des disporamas présentés en cours sont disponibles [ici](https://drive.google.com/drive/folders/1H6s7ey3Yb_qI4cae1w2Wu8eYbZMhVAFn?usp=sharing).
+
 ## Séance 1 (08/02/2021)
 
 * [Diaporama](cm/20210208.pdf) (et sa [version annotée](cm/20210208bis.pdf))
@@ -25,6 +27,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 ## Séance 3 (09/04/2021)
 
 * [Diaporama](cm/20210409.pdf) (et sa [version annotée](cm/20210409bis.pdf))
+
+## Séance 4 (27/04/2021)
+
+* [Diaporama](cm/20210427.pdf) (et sa [version annotée](cm/20210427bis.pdf))
 
 # TD
 
