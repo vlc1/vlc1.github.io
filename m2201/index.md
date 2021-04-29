@@ -55,3 +55,7 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 	- [Groupe 1](https://filesender.renater.fr/?s=download&token=ebee06a5-670b-4644-b65b-d5b9db0a3970)
 	- [ Groupe 2](https://filesender.renater.fr/?s=download&token=fc96f3e0-6d6a-48b6-93dd-dec088d85012)
 
+## Séance 3 (29/04/2021)
+
+* [Corrections](td/3/corrections.pdf)
+
