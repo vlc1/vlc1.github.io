@@ -52,7 +52,8 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 * [Corrections](td/5/corrections.pdf)
 
-## Séance 6 (30/04/2021)
+## Séance 6 (03/05/2021)
 
 * [Énoncés](td/6/exercices.pdf)
+* [Corrections](td/6/corrections.pdf)
 
