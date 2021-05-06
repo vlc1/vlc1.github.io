@@ -59,3 +59,8 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 
 * [Corrections](td/3/corrections.pdf)
 
+## Séance 4 (06/05/2021)
+
+* [Corrections](td/4/corrections.pdf)
+* [Feuille de calcul](td/4/notebook.html)
+
