@@ -72,3 +72,7 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 	* [Corrections](td/5/1/corrections.pdf)
 	* [Feuille de calcul](td/5/1/notebook.html)
 
+* 1S2 (11/05/2021)
+
+	* [Corrections](td/5/2/corrections.pdf)
+
