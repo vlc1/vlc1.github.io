@@ -73,12 +73,18 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 ## Séance 5
 
 * [Exercices](td/5/exercices.pdf)
-* 1S1 (10/05/2021)
+* 2S1 (10/05/2021)
 
 	* [Corrections](td/5/1/corrections.pdf)
 	* [Feuille de calcul](td/5/1/notebook.html)
 
-* 1S2 (11/05/2021)
+* 2S2 (11/05/2021)
 
 	* [Corrections](td/5/2/corrections.pdf)
+
+## Séance 6
+
+* 2S2 (17/05/2021)
+
+	* [Corrections](td/6/2/corrections.pdf)
 
