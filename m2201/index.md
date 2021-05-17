@@ -11,6 +11,12 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * **Mot de passe** : `QtcxY7`.
 -->
 
+# Contrôle
+
+## Partiel
+
+* Demi-promotion 2S2 (17/05/2021) : [sujet](partiel/2S2.pdf)
+
 # CM
 
 Les versions annotées des disporamas présentés en cours sont disponibles [ici](https://drive.google.com/drive/folders/1H6s7ey3Yb_qI4cae1w2Wu8eYbZMhVAFn?usp=sharing).
