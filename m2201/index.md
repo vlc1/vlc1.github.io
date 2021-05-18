@@ -15,6 +15,7 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 ## Partiel
 
+* Demi-promotion 2S1 (18/05/2021) : [sujet](partiel/2S1.pdf)
 * Demi-promotion 2S2 (17/05/2021) : [sujet](partiel/2S2.pdf)
 
 # CM
@@ -83,6 +84,10 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 	* [Corrections](td/5/2/corrections.pdf)
 
 ## Séance 6
+
+* 2S1 (18/05/2021)
+
+	* [Corrections](td/6/1/corrections.pdf)
 
 * 2S2 (17/05/2021)
 
