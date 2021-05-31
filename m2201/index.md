@@ -39,6 +39,10 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 
 * [Diaporama](cm/20210427.pdf) (et sa [version annotée](cm/20210427bis.pdf))
 
+## Séance 5 (31/05/2021)
+
+* [Enregistrements](https://filesender.renater.fr/?s=download&token=463bb1aa-367b-4948-a49f-2fce0096c81d)
+
 # TD
 
 ## Séance 1 (05/03/2021)
