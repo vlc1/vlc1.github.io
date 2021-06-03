@@ -86,6 +86,7 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 * 2S2 (11/05/2021)
 
 	* [Corrections](td/5/2/corrections.pdf)
+
 ## Séance 6
 
 * 2S1 (18/05/2021)
@@ -96,7 +97,7 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 
 	* [Corrections](td/6/2/corrections.pdf)
 
-## Séance 6 (03/06/2021)
+## Séance 7 (03/06/2021)
 
 * [Feuille de calcul](td/7/notebook.html) ;
 * Enregistrements
