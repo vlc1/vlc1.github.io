@@ -11,6 +11,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * **Mot de passe** : `QtcxY7`.
 -->
 
+# Examen
+
+Le sujet de l'examen du 19 mai 2021 se trouve [ici](examen/sujet.pdf).
+
 # TD
 
 ## Séance 1 (12/03/2021)

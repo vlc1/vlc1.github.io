@@ -11,6 +11,13 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * **Mot de passe** : `QtcxY7`.
 -->
 
+# Contrôle
+
+## Partiel
+
+* Demi-promotion 2S1 (18/05/2021) : [sujet](partiel/2S1.pdf)
+* Demi-promotion 2S2 (17/05/2021) : [sujet](partiel/2S2.pdf)
+
 # CM
 
 Les versions annotées des disporamas présentés en cours sont disponibles [ici](https://drive.google.com/drive/folders/1H6s7ey3Yb_qI4cae1w2Wu8eYbZMhVAFn?usp=sharing).
@@ -31,6 +38,10 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 ## Séance 4 (27/04/2021)
 
 * [Diaporama](cm/20210427.pdf) (et sa [version annotée](cm/20210427bis.pdf))
+
+## Séance 5 (31/05/2021)
+
+* [Enregistrements](https://filesender.renater.fr/?s=download&token=463bb1aa-367b-4948-a49f-2fce0096c81d)
 
 # TD
 
@@ -67,18 +78,27 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 ## Séance 5
 
 * [Exercices](td/5/exercices.pdf)
-* 1S1 (10/05/2021)
+* 2S1 (10/05/2021)
 
 	* [Corrections](td/5/1/corrections.pdf)
 	* [Feuille de calcul](td/5/1/notebook.html)
 
-* 1S2 (11/05/2021)
+* 2S2 (11/05/2021)
 
 	* [Corrections](td/5/2/corrections.pdf)
+## Séance 6
+
+* 2S1 (18/05/2021)
+
+	* [Corrections](td/6/1/corrections.pdf)
+
+* 2S2 (17/05/2021)
+
+	* [Corrections](td/6/2/corrections.pdf)
 
 ## Séance 6 (03/06/2021)
 
-* [Feuille de calcul](td/6/notebook.html) ;
+* [Feuille de calcul](td/7/notebook.html) ;
 * Enregistrements
 
 	- [Groupe 2S1](https://filesender.renater.fr/?s=download&token=1568e694-a021-48d0-a6d0-d94a0a0219fb) ;
