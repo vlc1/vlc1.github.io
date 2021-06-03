@@ -76,3 +76,11 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 
 	* [Corrections](td/5/2/corrections.pdf)
 
+## Séance 6 (03/06/2021)
+
+* [Feuille de calcul](td/6/notebook.html) ;
+* Enregistrements
+
+	- [Groupe 2S1](https://filesender.renater.fr/?s=download&token=1568e694-a021-48d0-a6d0-d94a0a0219fb) ;
+	- [Groupe 2S2](https://filesender.renater.fr/?s=download&token=5d209f7c-0706-4a7e-937f-7d39b32d7c1d).
+
