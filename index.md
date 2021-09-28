@@ -10,7 +10,7 @@ title: Homepage
 * [ene-4102c](ene-4102c/index.md)
 * [os08](os08/index.md)
 * [os02](os02/index.md)
-* [mft-3-1-2](mft-3-1-2/index.md)
+* [mft-3-1-2](mft-3-1-2-web)
 
 # Research
 
