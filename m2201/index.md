@@ -18,6 +18,10 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * Demi-promotion 2S1 (18/05/2021) : [sujet](partiel/2S1.pdf)
 * Demi-promotion 2S2 (17/05/2021) : [sujet](partiel/2S2.pdf)
 
+## Final (10/06)
+
+Le sujet sera disponible à 16H15 le 10/06 [ici](sujet.pdf).
+
 # CM
 
 Les versions annotées des disporamas présentés en cours sont disponibles [ici](https://drive.google.com/drive/folders/1H6s7ey3Yb_qI4cae1w2Wu8eYbZMhVAFn?usp=sharing).
@@ -96,4 +100,12 @@ Les versions annotées des disporamas présentés en cours sont disponibles [ici
 * 2S2 (17/05/2021)
 
 	* [Corrections](td/6/2/corrections.pdf)
+
+## Séance 7 (03/06/2021)
+
+* [Feuille de calcul](td/7/notebook.html) ;
+* Enregistrements
+
+	- [Groupe 2S1](https://filesender.renater.fr/?s=download&token=1568e694-a021-48d0-a6d0-d94a0a0219fb) ;
+	- [Groupe 2S2](https://filesender.renater.fr/?s=download&token=5d209f7c-0706-4a7e-937f-7d39b32d7c1d).
 
