@@ -4,7 +4,7 @@ title: OS08 -- Démarche Scientifique
 
 # Séance 1 (12/09/2022)
 
-* [*Notebook* Pluto](20220912/notebook.html) (fichier [.jl](20220912/notebook.))
+* [*Notebook* Pluto](20220912/notebook.html) (fichier [.jl](20220912/notebook.jl))
 
 <!--
 # Séance 1 (28/01/2021)
