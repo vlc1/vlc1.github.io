@@ -2,15 +2,11 @@
 title: OS08 -- Démarche Scientifique
 ---
 
+# Séance 1 (12/09/2022)
+
+* [*Notebook* Pluto](20220912/notebook.html) (fichier [.jl](20220912/notebook.))
+
 <!--
-Voici les informations relatives à la prochaine séance en distanciel :
-
-* **Horaire** : 04/03/2021 de 15H00 à 19H15 ;
-* **Lien zoom** : <https://us02web.zoom.us/j/85063364580?pwd=WXJZREJ6WlZHVkZpSDh6c0dGazJtQT09> ;
-* **Meeting ID** : `850 6336 4580` ;
-* **Mot de passe** : `32ZTpg`.
--->
-
 # Séance 1 (28/01/2021)
 
 * [Notes de cours](20210128/notes.pdf)
@@ -85,15 +81,8 @@ Voici les informations relatives à la prochaine séance en distanciel :
 * [Correction](20210401/correction.pdf)
 * [Feuille de calcul](20210401/calcul.html)
 
-<!--
-* Enregistrements (Pluto.jl)
-
-	- [Installation](https://youtu.be/YRXcvLOeBGI)
-	- [Environnement](https://youtu.be/vMrrSkp6M04)
-	- [Ouverture notebook](https://youtu.be/PBl3EtRwSZI)
--->
-
 # Examen (08/04/2021)
 
 * [Énoncé](sujet.pdf)
 
+-->
