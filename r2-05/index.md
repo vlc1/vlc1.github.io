@@ -13,7 +13,13 @@ Voici les informations relatives à la prochaine séance en distanciel :
 
 # TD
 
-Corrections mises à jour régulièrement disponibles [ici](https://drive.google.com/drive/folders/1RtQcUVbntKc9LJmOngItOyqlbZEYfdpI).
+Énoncés disponibles ci-dessous et corrections mises à jour régulièrement disponibles [ici](https://drive.google.com/drive/folders/1RtQcUVbntKc9LJmOngItOyqlbZEYfdpI).
+
+## Énoncés
+
+0. [Fiche TD-0](td0.pdf) ;
+0. [Fiche TD-1](td1.pdf) ;
+0. [Fiche TD-2](td2.pdf).
 
 # CM
 
