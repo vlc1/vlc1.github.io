@@ -20,7 +20,8 @@ Voici les informations relatives à la prochaine séance en distanciel :
 0. [Fiche TD-0](td0.pdf) ;
 0. [Fiche TD-1](td1.pdf) ;
 0. [Fiche TD-2](td2.pdf) ;
-0. [Fiche TD-3](td3.pdf).
+0. [Fiche TD-3](td3.pdf) ;
+0. [Fiche TD-4](td4.pdf).
 
 # CM
 
