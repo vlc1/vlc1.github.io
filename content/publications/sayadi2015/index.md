@@ -4,7 +4,7 @@ authors:
   - Sayadi, T.
   - Le Chenadec, V.
   - Schmid, P.
-  - Richecœur, F.
+  - Richecoeur, F.
   - Massot, M.
 date: 2015-01-01
 publication_types: ["Journal article"]

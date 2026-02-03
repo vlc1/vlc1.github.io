@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.58771553"
+     inkscape:cx="704.42242"
+     inkscape:cy="564.04839"
+     inkscape:window-width="1440"
+     inkscape:window-height="758"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#2563eb;fill-opacity:1;stroke:none;stroke-width:1.45325"
+       id="path1"
+       cx="135.46666"
+       cy="135.46666"
+       r="135.46666" />
+    <text
+       xml:space="preserve"
+       style="font-size:135.467px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       x="7.6729193"
+       y="184.71236"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:135.467px;fill:#ffffff;stroke-width:1"
+         x="7.6729193"
+         y="184.71236">VLC</tspan></text>
+  </g>
+</svg>

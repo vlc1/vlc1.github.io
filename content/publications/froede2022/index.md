@@ -1,7 +1,7 @@
 ---
 title: "A three-dimensional cell-based volume-of-fluid method for conservative simulations of primary atomization"
 authors:
-  - Fröde, F.
+  - Froede, F.
   - Grenga, T.
   - Le Chenadec, V.
   - Bode, M.
