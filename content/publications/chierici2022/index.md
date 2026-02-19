@@ -1,5 +1,5 @@
 ---
-title: "An optimized {Vofi} library to initialize the volume fraction field"
+title: "An optimized Vofi library to initialize the volume fraction field"
 authors:
   - Chierici, A.
   - Chirco, L.

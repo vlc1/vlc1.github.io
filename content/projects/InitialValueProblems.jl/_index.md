@@ -16,5 +16,3 @@ content_meta:
   language: 'English'
   trending: false
 ---
-
-A lightweight Julia package for solving ordinary differential equations (ODEs). This package provides efficient and flexible methods for solving initial value problems with a focus on simplicity and performance.

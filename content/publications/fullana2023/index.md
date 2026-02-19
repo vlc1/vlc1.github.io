@@ -1,5 +1,5 @@
 ---
-title: "Adjoint-based optimization of two-dimensional {Stefan} problems"
+title: "Adjoint-based optimization of two-dimensional Stefan problems"
 authors:
   - Fullana, T.
   - Le Chenadec, V.

@@ -1,5 +1,5 @@
 ---
-title: "A levelset-based cut-cell method for interfacial flows: part 1—{Navier}–{Stokes} equations and {Rayleigh}–{Bénard} instability with melting boundary"
+title: "A levelset-based cut-cell method for interfacial flows: part 1 — Navier-Stokes equations and Rayleigh–Bénard instability with melting boundary"
 authors:
   - Quirós Rodríguez, A.
   - Fullana, T.
