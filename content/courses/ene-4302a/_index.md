@@ -7,11 +7,12 @@ external_link: https://vlc1.github.io/ene-4302a/
 
 tags:
   - Course
-  - Numerical Methods
+  - English
 
 content_meta:
   content_type: 'Course'
   difficulty: 'Beginner'
-  prerequisites: ['Ordinary Differential Equations', 'Partial Differential Equations']
+  language: 'English'
+  prerequisites: ['Differential Equations']
   trending: false
 ---

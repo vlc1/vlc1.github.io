@@ -7,11 +7,12 @@ external_link: https://vlc1.github.io/r2-05/
 
 tags:
   - Course
-  - Thermodynamique
+  - Français
 
 content_meta:
   content_type: 'Cours'
   difficulty: 'Débutant'
+  language: 'Français'
   prerequisites: ['Mathématiques de base', 'Physique générale']
   trending: false
 ---
